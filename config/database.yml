@@ -20,3 +20,5 @@ production:
   host: ec2-54-163-239-102.compute-1.amazonaws.com
   username: lp.gutierrezpineda@gmail.com
   database: d3n46rrgd57mg2
+  pool: 5
+  timeout: 5000
